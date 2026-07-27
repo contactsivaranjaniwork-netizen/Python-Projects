@@ -3,7 +3,6 @@
 A growing collection of Python projects, ranging from simple command-line utilities to more advanced tools involving APIs, data analysis, and automation. Built as a hands-on way to practice writing clean, tested, real-world Python code.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Tests](https://img.shields.io/badge/tests-pytest-yellow)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
@@ -235,7 +234,3 @@ Total                  ██░░░░░░░░░░░░░░░░░
 *(Update this section as new projects are completed or added.)*
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
