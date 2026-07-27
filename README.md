@@ -81,7 +81,7 @@ New projects are simply added as new top-level folders and linked in the [Projec
 |---|---|---|
 | Unit Converter | Converts between temperature, length, and weight units | ✅ |
 | Random Quote / Affirmation Generator | Prints a random quote from a local JSON file, filterable by category | ✅ |
-| Simple Calculator with History | Basic arithmetic with a saved calculation log | ⬜ |
+| Simple Calculator with History | Basic arithmetic with a saved calculation log | ✅ |
 | Dice Roller / Coin Flip Simulator | Simulates rolls/flips with running statistics | ⬜ |
 | BMI & Calorie Calculator | Computes BMI and classifies into health categories | ⬜ |
 | QR Code Generator | Converts text/URLs into downloadable QR images | ⬜ |
@@ -221,12 +221,12 @@ Every project in this repo follows the same conventions for consistency:
 ## 📊 Progress Tracker
 
 ```
-Beginner              ██░░░░░░░░  2 / 10
+Beginner              ███░░░░░░░░  3 / 10
 Early Intermediate     ░░░░░░░░░░  0 / 10
 Intermediate           ░░░░░░░░░░  0 / 10
 Advanced Intermediate  ░░░░░░░░░░  0 / 10
 Advanced               ░░░░░░░░░░  0 / 10
 ------------------------------------------
-Total                  ██░░░░░░░░░░░░░░░░░░░░░░░░  2 / 50
+Total                  ██░░░░░░░░░░░░░░░░░░░░░░░░  3 / 50
 ``````````````````````````````````````````
 
