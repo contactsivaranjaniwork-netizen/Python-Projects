@@ -23,7 +23,7 @@ A growing collection of Python projects, ranging from simple command-line utilit
 - [Project Conventions](#-project-conventions)
 - [Tech Stack](#-tech-stack)
 - [Progress Tracker](#-progress-tracker)
-- [License](#-license)
+
 
 ---
 
@@ -231,6 +231,3 @@ Advanced               ░░░░░░░░░░  0 / 10
 Total                  ██░░░░░░░░░░░░░░░░░░░░░░░░  2 / 50
 ```
 
-*(Update this section as new projects are completed or added.)*
-
----
