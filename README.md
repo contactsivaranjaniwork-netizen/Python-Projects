@@ -62,7 +62,6 @@ python-portfolio/
 ├── ...
 ├── personal-finance-dashboard/
 │   └── ...
-├── LICENSE
 └── README.md   ← you are here
 ```
 
