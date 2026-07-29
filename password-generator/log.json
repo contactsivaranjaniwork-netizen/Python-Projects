@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "29-07-2026 15:49:57",
+        "length": 10,
+        "upper": true,
+        "lower": false,
+        "digits": true,
+        "symbols": false
+    },
+    {
+        "timestamp": "29-07-2026 15:50:34",
+        "length": 100,
+        "upper": true,
+        "lower": true,
+        "digits": true,
+        "symbols": true
+    }
+]
