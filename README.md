@@ -84,8 +84,8 @@ New projects are simply added as new top-level folders and linked in the [Projec
 | Simple Calculator with History | Basic arithmetic with a saved calculation log | ✅ |
 | Dice Roller / Coin Flip Simulator | Simulates rolls/flips with running statistics | ✅ |
 | BMI & Calorie Calculator | Computes BMI and classifies into health categories | ✅ |
-| QR Code Generator | Converts text/URLs into downloadable QR images | ⬜ |
-| Random Password Generator | Customizable-length password generator | ⬜ |
+| QR Code Generator | Converts text/URLs into downloadable QR images | ✅ |
+| Random Password Generator | Customizable-length password generator | ✅ |
 | Countdown Timer / Pomodoro Clock | Work/break interval timer with alerts | ⬜ |
 | Text-Based Hangman | Classic word-guessing game | ⬜ |
 | Number Guessing Game | Computer-picked number with adjustable difficulty | ⬜ |
@@ -221,12 +221,12 @@ Every project in this repo follows the same conventions for consistency:
 ## 📊 Progress Tracker
 
 ```
-Beginner               █████░░░░░  5 / 10
+Beginner               ███████░░░  7 / 10
 Early Intermediate     ░░░░░░░░░░  0 / 10
 Intermediate           ░░░░░░░░░░  0 / 10
 Advanced Intermediate  ░░░░░░░░░░  0 / 10
 Advanced               ░░░░░░░░░░  0 / 10
 ------------------------------------------
-Total                  ██░░░░░░░░░░░░░░░░░░░░░░░░  5 / 50
+Total                  ███░░░░░░░░░░░░░░░░░░░░░░░  7 / 50
 ``````````````````````````````````````````
 
