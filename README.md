@@ -86,9 +86,9 @@ New projects are simply added as new top-level folders and linked in the [Projec
 | BMI & Calorie Calculator | Computes BMI and classifies into health categories | ✅ |
 | QR Code Generator | Converts text/URLs into downloadable QR images | ✅ |
 | Random Password Generator | Customizable-length password generator | ✅ |
-| Countdown Timer / Pomodoro Clock | Work/break interval timer with alerts | ⬜ |
-| Text-Based Hangman | Classic word-guessing game | ⬜ |
-| Number Guessing Game | Computer-picked number with adjustable difficulty | ⬜ |
+| Countdown Timer / Pomodoro Clock | Work/break interval timer with alerts | ✅ |
+| Text-Based Hangman | Classic word-guessing game | ✅ |
+| Number Guessing Game | Computer-picked number with adjustable difficulty | ✅ |
 
 ### Early Intermediate
 *Adds file I/O and persistent data (CSV/JSON)*
@@ -221,12 +221,12 @@ Every project in this repo follows the same conventions for consistency:
 ## 📊 Progress Tracker
 
 ```
-Beginner               ███████░░░  7 / 10
+Beginner               ██████████  10 / 10
 Early Intermediate     ░░░░░░░░░░  0 / 10
 Intermediate           ░░░░░░░░░░  0 / 10
 Advanced Intermediate  ░░░░░░░░░░  0 / 10
 Advanced               ░░░░░░░░░░  0 / 10
 ------------------------------------------
-Total                  ███░░░░░░░░░░░░░░░░░░░░░░░  7 / 50
+Total                  █████░░░░░░░░░░░░░░░░░░░░░  10 / 50
 ``````````````````````````````````````````
 
