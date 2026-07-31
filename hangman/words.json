@@ -1,0 +1,196 @@
+{
+  "Animals": {
+    "easy": [
+      "cat",
+      "dog",
+      "cow",
+      "fox",
+      "lion",
+      "tiger",
+      "zebra",
+      "horse",
+      "panda",
+      "rabbit"
+    ],
+    "medium": [
+      "elephant",
+      "kangaroo",
+      "alligator",
+      "chimpanzee",
+      "porcupine",
+      "flamingo",
+      "hedgehog",
+      "rhinoceros",
+      "woodpecker",
+      "starfish"
+    ],
+    "hard": [
+      "hippopotamus",
+      "ornithorhynchus",
+      "chameleon",
+      "axolotl",
+      "narwhal",
+      "armadillo",
+      "wolverine",
+      "cassowary",
+      "echidna",
+      "platypus"
+    ]
+  },
+
+  "Countries": {
+    "easy": [
+      "india",
+      "china",
+      "japan",
+      "nepal",
+      "brazil",
+      "canada",
+      "france",
+      "mexico",
+      "spain",
+      "italy"
+    ],
+    "medium": [
+      "argentina",
+      "australia",
+      "indonesia",
+      "madagascar",
+      "portugal",
+      "thailand",
+      "singapore",
+      "pakistan",
+      "mongolia",
+      "norway"
+    ],
+    "hard": [
+      "liechtenstein",
+      "turkmenistan",
+      "azerbaijan",
+      "kyrgyzstan",
+      "luxembourg",
+      "mozambique",
+      "tajikistan",
+      "uzbekistan",
+      "kazakhstan",
+      "czechoslovakia"
+    ]
+  },
+
+  "Programming": {
+    "easy": [
+      "python",
+      "java",
+      "ruby",
+      "swift",
+      "array",
+      "class",
+      "float",
+      "string",
+      "input",
+      "print"
+    ],
+    "medium": [
+      "function",
+      "variable",
+      "compiler",
+      "debugger",
+      "recursion",
+      "exception",
+      "parameter",
+      "algorithm",
+      "interface",
+      "framework"
+    ],
+    "hard": [
+      "polymorphism",
+      "encapsulation",
+      "multithreading",
+      "serialization",
+      "synchronization",
+      "inheritance",
+      "abstraction",
+      "microservices",
+      "virtualization",
+      "dependency"
+    ]
+  },
+
+  "Food": {
+    "easy": [
+      "pizza",
+      "burger",
+      "noodles",
+      "pasta",
+      "banana",
+      "apple",
+      "orange",
+      "grapes",
+      "carrot",
+      "tomato"
+    ],
+    "medium": [
+      "sandwich",
+      "pineapple",
+      "watermelon",
+      "strawberry",
+      "chocolate",
+      "croissant",
+      "lasagna",
+      "cappuccino",
+      "omelette",
+      "blueberry"
+    ],
+    "hard": [
+      "bouillabaisse",
+      "ratatouille",
+      "bruschetta",
+      "fettuccine",
+      "cheesecake",
+      "guacamole",
+      "cannelloni",
+      "sauerkraut",
+      "mayonnaise",
+      "pomegranate"
+    ]
+  },
+
+  "Movies": {
+    "easy": [
+      "avatar",
+      "frozen",
+      "cars",
+      "coco",
+      "moana",
+      "shrek",
+      "up",
+      "jaws",
+      "rocky",
+      "aladdin"
+    ],
+    "medium": [
+      "inception",
+      "gladiator",
+      "interstellar",
+      "goodfellas",
+      "parasite",
+      "casablanca",
+      "memento",
+      "skyfall",
+      "deadpool",
+      "dunkirk"
+    ],
+    "hard": [
+      "oppenheimer",
+      "apocalypse",
+      "whiplash",
+      "amelie",
+      "everything",
+      "annihilation",
+      "bladerunner",
+      "requiem",
+      "prestige",
+      "arrival"
+    ]
+  }
+}
