@@ -1,0 +1,11 @@
+{
+    "games_played": 1,
+    "difficulties": {
+        "medium": {
+            "games_played": 1,
+            "wins": 1,
+            "losses": 0,
+            "best_guesses": 6
+        }
+    }
+}
