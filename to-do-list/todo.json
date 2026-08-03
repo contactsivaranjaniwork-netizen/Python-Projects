@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Create todo pgm",
+        "description": "Create a python program which manages to do list & commit to git hub",
+        "completed": false,
+        "created_at": "2026-08-03 12:35:06",
+        "priority": "Medium"
+    }
+]

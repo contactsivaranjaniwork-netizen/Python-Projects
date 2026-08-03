@@ -50,7 +50,7 @@ password-generator/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/python-portfolio.git
+git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
 cd python-portfolio/password-generator
 pip install -r requirements.txt
 ```

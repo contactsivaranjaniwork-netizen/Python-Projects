@@ -161,7 +161,7 @@ New projects are simply added as new top-level folders and linked in the [Projec
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/python-portfolio.git
+git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
 cd python-portfolio
 ```
 
