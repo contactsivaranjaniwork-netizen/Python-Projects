@@ -51,8 +51,8 @@ pomodoro-clock/
 ## Installation
 
 ```bash
-git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
-cd python-portfolio/pomodoro-clock
+git clone https://github.com/contactsivaranjaniwork-netizen/Python-Projects.git
+cd python-portfolio/pomodoro-countdown
 pip install -r requirements.txt
 ```
 

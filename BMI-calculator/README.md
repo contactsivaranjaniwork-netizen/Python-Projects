@@ -56,8 +56,8 @@ bmi-calorie-calculator/
 ## Installation
 
 ```bash
-git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
-cd python-portfolio/bmi-calorie-calculator
+git clone https://github.com/contactsivaranjaniwork-netizen/Python-Projects.git
+cd python-portfolio/BMI-calculator
 pip install -r requirements.txt
 ```
 

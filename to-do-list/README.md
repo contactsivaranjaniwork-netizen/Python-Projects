@@ -52,8 +52,8 @@ todo-list-manager/
 ## Installation
 
 ```bash
-git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
-cd python-portfolio/todo-list-manager
+git clone https://github.com/contactsivaranjaniwork-netizen/Python-Projects.git
+cd python-portfolio/to-do-list
 pip install -r requirements.txt
 ```
 

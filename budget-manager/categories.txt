@@ -1,0 +1,15 @@
+[INCOME]
+Freelance
+Gifts
+Interest
+Other
+Salary
+
+[EXPENSE]
+Electricity
+Entertainment
+Food
+Other
+Rent
+Transport
+Utilities

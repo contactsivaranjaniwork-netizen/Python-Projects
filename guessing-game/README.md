@@ -58,8 +58,8 @@ number-guessing-game/
 ## Installation
 
 ```bash
-git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
-cd python-portfolio/number-guessing-game
+git clone https://github.com/contactsivaranjaniwork-netizen/Python-Projects.git
+cd python-portfolio/guessing-game
 pip install -r requirements.txt
 ```
 

@@ -56,8 +56,8 @@ calculator/
 ## Installation
 
 ```bash
-git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
-cd python-portfolio/calculator
+git clone https://github.com/contactsivaranjaniwork-netizen/Python-Projects.git
+cd python-portfolio/calculator-with-memory
 pip install -r requirements.txt
 ```
 

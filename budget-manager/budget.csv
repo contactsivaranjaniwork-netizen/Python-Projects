@@ -1,0 +1,5 @@
+transaction_id,date,type,amount,category,description
+1,2026-08-04 11:50:22,income,100000.0,Freelance,
+2,2026-08-04 15:17:51,income,100000.0,Gifts,
+3,2026-08-04 15:18:36,expense,2000.0,Food,
+4,2026-08-04 15:26:02,expense,1000.0,Other,OTT

@@ -50,7 +50,7 @@ unit-converter/
 ## Installation
 
 ```bash
-git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
+git clone https://github.com/contactsivaranjaniwork-netizen/Python-Projects.git
 cd python-portfolio/unit-converter
 pip install -r requirements.txt
 ```

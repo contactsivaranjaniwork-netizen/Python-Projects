@@ -51,8 +51,8 @@ dice-coin-simulator/
 ## Installation
 
 ```bash
-git clone https://github.com/contactsivaranjaniwork-netizen/python-portfolio.git
-cd python-portfolio/dice-coin-simulator
+git clone https://github.com/contactsivaranjaniwork-netizen/Python-Projects.git
+cd python-portfolio/simulate-dice-coin
 pip install -r requirements.txt
 ```
 
